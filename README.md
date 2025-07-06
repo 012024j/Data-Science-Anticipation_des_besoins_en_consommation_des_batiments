@@ -2,13 +2,13 @@
 
 #  Data Science Project – Building Energy Consumption Forecast
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Anticiper les besoins en consommation énergétique et les émissions de CO₂ des bâtiments non résidentiels à Seattle, en s’appuyant sur des données structurelles issues de relevés de 2016. Ce projet mobilise les techniques de **Machine Learning supervisé**, de **feature engineering**, et d'**explicabilité des modèles (XAI)**.
 
 ---
 
-## 🗂Étapes du projet
+## Étapes du projet
 
 1. **Analyse exploratoire des datasets** et premier travail de feature engineering  
 2. **Développement et simulation d’un premier modèle**  
@@ -22,8 +22,6 @@ Anticiper les besoins en consommation énergétique et les émissions de CO₂ d
 
 ## Données
 
-**Mission :** *Anticipez les besoins en consommation de bâtiments*  
-**Durée estimée :** 90 heures  
 **Données fournies :** Relevés municipaux de la ville de Seattle (2016)  
 **Variables :** Informations structurelles, usage, date de construction, localisation, consommation énergétique, émissions de CO₂, etc.
 
@@ -31,7 +29,7 @@ Anticiper les besoins en consommation énergétique et les émissions de CO₂ d
 
 ## Enjeux professionnels
 
-La capacité à créer, entraîner et interpréter un modèle de ML en lien avec un **problème métier réel** est une compétence phare du métier de Data Scientist.
+La capacité à créer, entraîner et interpréter un modèle de ML en lien avec un **problème métier réel**.
 
 ## Méthodologie
 
